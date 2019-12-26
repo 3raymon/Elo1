@@ -2,4 +2,4 @@
 
 ## Erlaubte Hilfsmittel
  * Taschenrechner
- * 5 A4-Blätter (10 Seiten) - Stand 2012
+ * 5 A4-Blätter (10 Seiten) - Stand 2019
